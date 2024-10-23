@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm David
-I am passionate about software development, specializing in front-end and back-end technologies. I enjoy solving complex problems and building efficient, scalable solutions. Below are the key languages, frameworks, tools, and libraries I work with:
+I am passionate about software development, enjoying both front-end and back-end work. I enjoy solving complex problems and building efficient, scalable solutions.
 
 ### 🔥 Highlighted Projects
 - [3D Portfolio](https://github.com/davidchanwz/3d_portfolio)  
