@@ -24,6 +24,7 @@ I am passionate about software development, specializing in front-end and back-e
 ![Context API](https://img.shields.io/badge/ContextAPI-blue?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
