@@ -1,7 +1,15 @@
 # Hi there! 👋 I'm David
-
-## About Me
 I am passionate about software development, specializing in front-end and back-end technologies. I enjoy solving complex problems and building efficient, scalable solutions. Below are the key languages, frameworks, tools, and libraries I work with:
+
+## 🔥 Highlighted Projects
+- [3D Portfolio](https://github.com/davidchanwz/3d_portfolio)  
+  A 3D interactive portfolio showcasing my work using modern web technologies.
+
+- [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
+  A personal expense sharing bot built with Telegram and Supabase, similar to Splitwise.
+
+- [Harbor Hackers](https://github.com/davidchanwz/harborhackers)  
+  A collaborative project for PSA Codesprint 2024, featuring solutions and tools for building a future-ready workforce.
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
