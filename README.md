@@ -5,6 +5,9 @@ I am passionate about software development, enjoying both front-end and back-end
 - [3D Portfolio](https://github.com/davidchanwz/3d_portfolio)  
   A 3D interactive portfolio showcasing my work using modern web technologies.
 
+- [OptiFooty](https://github.com/davidchanwz/optifooty-public)
+  A web app for optimising FPL Points.
+
 - [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
   A personal expense sharing bot built with Telegram and Supabase, similar to Splitwise.
 
