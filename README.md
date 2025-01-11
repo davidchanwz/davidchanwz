@@ -59,9 +59,9 @@ I am passionate about software development, enjoying both front-end and back-end
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2C8EBB?style=for-the-badge)
-![pydantic](https://img.shields.io/badge/-Pydantic-464646?logo=Pydantic)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-458AB7?logo=python&logoColor=white))
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?style=for-the-badge&logo=python&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-458AB7?style=for-the-badge&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-294E80?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidchanwz/)
