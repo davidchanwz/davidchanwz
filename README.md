@@ -11,7 +11,7 @@ I am passionate about software development, enjoying both front-end and back-end
 - [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
   A personal expense sharing bot built with Telegram and Supabase, similar to Splitwise.
 
-- [Harbor Hackers](https://github.com/davidchanwz/harborhackers)  
+- [CrewMate](https://github.com/davidchanwz/harborhackers)  
   A collaborative project for PSA Codesprint 2024, featuring solutions and tools for building a future-ready workforce.
 
 - [AI Compliance Engine](https://github.com/davidchanwz/ai-compliance-engine)    
