@@ -14,6 +14,9 @@ I am passionate about software development, enjoying both front-end and back-end
 - [Harbor Hackers](https://github.com/davidchanwz/harborhackers)  
   A collaborative project for PSA Codesprint 2024, featuring solutions and tools for building a future-ready workforce.
 
+- [AI Compliance Engine] (https://github.com/davidchanwz/ai-compliance-engine)
+  A collaborative project for NUS Fintech Summit Hackathon 2025, featuring ML-driven anomaly detection for Etherium transactions and JWT authentication.
+
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
