@@ -2,20 +2,29 @@
 I am passionate about software development, enjoying both front-end and back-end work. I enjoy solving complex problems and building efficient, scalable solutions.
 
 ### 🔥 Highlighted Projects
+
+- [Gyatword](https://github.com/gyatgames/gyatword)  
+  Full-stack web application for custom crossword game with daily refresh based on "Brain Rot" language.
+  Won Best Polyglot Hack for NUS Hack & Roll 2025.
+
+- [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
+  A group expense management telegram bot leveraging Hugging Face Donut Model for receipt image parsing.
+
+- [AI Compliance Engine](https://github.com/davidchanwz/ai-compliance-engine)    
+  Rest API with ML-based ethereum transaction fraud detection, automatic audit report generation with ~96% accuracy.
+  Achieved Finalist (Top 5 of 88 Teams) for NUS Fintech Hackathon 2025, Northern Trust track.
+
+- [CrewMate](https://github.com/davidchanwz/harborhackers)  
+  AI driven employee website for Port Singapore Authority, featuring AI Chatbot and AI-generated employee tasks.
+
 - [3D Portfolio](https://github.com/davidchanwz/3d_portfolio)  
   A 3D interactive portfolio showcasing my work using modern web technologies.
 
 - [OptiFooty](https://github.com/davidchanwz/optifooty-public)  
-  A web app for building and optimising your FPL Team.
+  Full-stack web application for ML-based prediction model and optimisation model with ~30% accuracy.
+  Awarded Artemis Extreme Difficulty Certification, top 4% out of 250 teams
+  
 
-- [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
-  A personal expense sharing bot built with Telegram and Supabase, similar to Splitwise.
-
-- [CrewMate](https://github.com/davidchanwz/harborhackers)  
-  A collaborative project for PSA Codesprint 2024, featuring solutions and tools for building a future-ready workforce.
-
-- [AI Compliance Engine](https://github.com/davidchanwz/ai-compliance-engine)    
-  A collaborative project for NUS Fintech Summit Hackathon 2025, featuring ML-driven anomaly detection for Etherium transactions and JWT authentication.
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
