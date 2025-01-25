@@ -17,9 +17,6 @@ I am passionate about software development, enjoying both front-end and back-end
 - [CrewMate](https://github.com/davidchanwz/harborhackers)  
   AI driven employee website for Port Singapore Authority, featuring AI Chatbot and AI-generated employee tasks.
 
-- [3D Portfolio](https://github.com/davidchanwz/3d_portfolio)  
-  A 3D interactive portfolio showcasing my work using modern web technologies.
-
 - [OptiFooty](https://github.com/davidchanwz/optifooty-public)  
   Full-stack web application for ML-based prediction model and optimisation model with ~30% accuracy.
   Awarded Artemis Extreme Difficulty Certification, top 4% out of 250 teams
