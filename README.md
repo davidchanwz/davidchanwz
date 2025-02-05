@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm David
 I am passionate about software development, enjoying both front-end and back-end work. I enjoy solving complex problems and building efficient, scalable solutions.
 
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidchanwz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white)](https://www.davidchanwz.com/)
+
 ### 🔥 Highlighted Projects
 
 - [Gyatword](https://github.com/gyatgames/gyatword)  
@@ -69,9 +73,6 @@ I am passionate about software development, enjoying both front-end and back-end
 ![Alembic](https://img.shields.io/badge/Alembic-458AB7?style=for-the-badge&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-294E80?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidchanwz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-blue?style=for-the-badge)](https://www.davidchanwz.com/)
 
 <!--
 **davidchanwz/davidchanwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
