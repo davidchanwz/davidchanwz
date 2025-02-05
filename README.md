@@ -64,6 +64,7 @@ I am passionate about software development, enjoying both front-end and back-end
 ![Pydantic](https://img.shields.io/badge/Pydantic-294E80?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 
 
 
