@@ -60,7 +60,7 @@ I am passionate about software development, enjoying both front-end and back-end
 ### 📚 Libraries
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Alembic](https://img.shields.io/badge/Alembic-458AB7?style=for-the-badge&logo=python&logoColor=white)
