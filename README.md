@@ -9,6 +9,9 @@ I am passionate about software development, enjoying both front-end and back-end
 - [Gyatword](https://github.com/gyatgames/gyatword)  
   Full-stack web application for custom crossword game with daily refresh based on "Brain Rot" language.
   Won Best Polyglot Hack for NUS Hack & Roll 2025.
+  
+- [SmartPantry](https://github.com/lionsee77/SmartPantry)
+  A meal-planning AI that retrieves pantry inventory and user preferences to generate personalized, health-conscious meal plans using Retrieval-Augmented Generation (RAG) with LlamaIndex and Vector Search.
 
 - [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
   A group expense management telegram bot leveraging Hugging Face Donut Model for receipt image parsing.
