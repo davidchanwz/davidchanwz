@@ -3,7 +3,7 @@ I am passionate about software development, enjoying both front-end and back-end
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidchanwz/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?logo=About.me&logoColor=white)](https://www.davidchanwz.com)
 ### 🔥 Highlighted Projects
 
 - [Gyatword](https://github.com/gyatgames/gyatword)  
