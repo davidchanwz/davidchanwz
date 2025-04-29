@@ -17,7 +17,7 @@ I am passionate about software development, enjoying both front-end and back-end
 - [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
   A group expense management telegram bot with ~300 users.
 
-- [GyatSound](https://github.com/level8studios/gyatsound)  
+- [GyatSound](https://github.com/lvl8studios/gyatsound)  
   A telegram bot that sends Gen Z meme sounds as voice recordings for optimal trolling.
 
 - [AI Compliance Engine](https://github.com/davidchanwz/ai-compliance-engine)    
