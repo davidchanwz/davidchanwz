@@ -15,7 +15,7 @@ I am passionate about software development, enjoying both front-end and back-end
   A meal-planning AI that retrieves pantry inventory and user preferences to generate personalized, health-conscious meal plans using Retrieval-Augmented Generation (RAG) with LlamaIndex and Vector Search.
 
 - [CoconutSplit](https://github.com/davidchanwz/coconutsplit)  
-  A group expense management telegram bot with ~300 users.
+  A group expense management telegram bot with ~600 users.
 
 - [GyatSound](https://github.com/lvl8studios/gyatsound)  
   A telegram bot that sends Gen Z meme sounds as voice recordings for optimal trolling.
