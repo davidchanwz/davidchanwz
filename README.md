@@ -18,14 +18,11 @@ I am passionate about software development, enjoying both front-end and back-end
   A group expense management telegram bot with ~1100 users.
 
 - [GyatSound](https://github.com/lvl8studios/gyatsound)  
-  A telegram bot that sends Gen Z meme sounds as voice recordings for optimal trolling.
+  Open source telegram bot that sends Gen Z meme sounds as voice recordings for optimal trolling.
 
 - [AI Compliance Engine](https://github.com/davidchanwz/ai-compliance-engine)    
   Rest API with ML-based ethereum transaction fraud detection, automatic audit report generation with ~96% accuracy.
   Achieved Finalist (Top 5 of 88 Teams) for NUS Fintech Hackathon 2025, Northern Trust track.
-
-- [CrewMate](https://github.com/davidchanwz/harborhackers)  
-  AI driven employee website for Port Singapore Authority, featuring AI Chatbot and AI-generated employee tasks.
 
 - [OptiFooty](https://github.com/davidchanwz/optifooty-public)  
   Full-stack web application for ML-based prediction model and optimisation model with ~30% accuracy.
