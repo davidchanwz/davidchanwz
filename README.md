@@ -7,6 +7,9 @@ I am passionate about software development, enjoying both front-end and back-end
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.chan@u.nus.edu)
 ### 🔥 Highlighted Projects
 
+- [CoconutSplit](https://t.me/coconutsplit_bot)  
+  A group expense management telegram bot with ~1100 users.
+
 - [Gyatword](https://github.com/gyatgames/gyatword)  
   Full-stack web application for custom crossword game with daily refresh based on "Brain Rot" language.
   Won Best Polyglot Hack for NUS Hack & Roll 2025.
@@ -14,19 +17,8 @@ I am passionate about software development, enjoying both front-end and back-end
 - [SmartPantry](https://github.com/lionsee77/SmartPantry)  
   A meal-planning AI that retrieves pantry inventory and user preferences to generate personalized, health-conscious meal plans using Retrieval-Augmented Generation (RAG) with LlamaIndex and Vector Search.
 
-- [CoconutSplit](https://t.me/coconutsplit_bot)  
-  A group expense management telegram bot with ~1100 users.
-
 - [GyatSound](https://github.com/lvl8studios/gyatsound)  
   Open source telegram bot that sends Gen Z meme sounds as voice recordings for optimal trolling.
-
-- [AI Compliance Engine](https://github.com/davidchanwz/ai-compliance-engine)    
-  Rest API with ML-based ethereum transaction fraud detection, automatic audit report generation with ~96% accuracy.
-  Achieved Finalist (Top 5 of 88 Teams) for NUS Fintech Hackathon 2025, Northern Trust track.
-
-- [OptiFooty](https://github.com/davidchanwz/optifooty-public)  
-  Full-stack web application for ML-based prediction model and optimisation model with ~30% accuracy.
-  Awarded Artemis Extreme Difficulty Certification, top 4% out of 250 teams
   
 
 
