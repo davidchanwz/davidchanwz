@@ -10,7 +10,7 @@ I am passionate about software development, enjoying both front-end and back-end
 - [CoconutSplit](https://t.me/coconutsplit_bot)  
   A group expense management telegram bot with ~2200 users.
 
-- [Gyatword](https://gyatword.com)  
+- [Gyatword](https://gyatword.com/)  
   Full-stack web application for custom crossword game with daily refresh based on "Brain Rot" language.
   Won Best Polyglot Hack for NUS Hack & Roll 2025.
 
