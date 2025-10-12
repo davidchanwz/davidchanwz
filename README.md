@@ -8,7 +8,7 @@ I am passionate about software development, enjoying both front-end and back-end
 ### 🔥 Highlighted Projects
 
 - [CoconutSplit](https://t.me/coconutsplit_bot)  
-  A group expense management telegram bot with ~1100 users.
+  A group expense management telegram bot with ~2200 users.
 
 - [Gyatword](https://github.com/gyatgames/gyatword)  
   Full-stack web application for custom crossword game with daily refresh based on "Brain Rot" language.
