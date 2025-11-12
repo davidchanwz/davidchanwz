@@ -5,21 +5,6 @@ i love building things for fun and work.
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidchanwz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?logo=About.me&logoColor=white)](https://www.davidchanwz.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.chan@u.nus.edu)
-### projects im proud of
-
-- [CoconutSplit](https://t.me/coconutsplit_bot)  
-  group expense management telegram bot with ~2500 users.
-
-- [Gyatword](https://gyatword.com/)  
-  brainrot crossword game that won Best Polyglot Hack at NUS Hack&Roll 2025.
-
-- [SmartPantry](https://github.com/lionsee77/SmartPantry)  
-  a meal-planning native app that uses RAG with LlamaIndex.
-
-- [GyatSound](https://github.com/lvl8studios/gyatsound)  
-  open source telegram bot that sends meme sounds for optimal trolling.
-  
-
 
 ### languages
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -54,16 +39,16 @@ i love building things for fun and work.
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 
+### github stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidchanwz&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 <!--
 **davidchanwz/davidchanwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
