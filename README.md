@@ -1,12 +1,4 @@
 # hi im david and welcome to my github
-i love building things for fun and work. 
-
-### connect with me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/davidchanwz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-543DE0?logo=About.me&logoColor=white)](https://www.davidchanwz.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:david.chan@u.nus.edu)
-
-### github stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidchanwz&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
