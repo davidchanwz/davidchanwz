@@ -41,15 +41,12 @@ i love building things for fun and work.
 
 ### github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidchanwz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidchanwz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidchanwz&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidchanwz&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidchanwz&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
