@@ -1,12 +1,4 @@
 # hi im david and welcome to my github
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidchanwz&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidchanwz&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidchanwz&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidchanwz&theme=dark&hide_border=true" alt="GitHub Streak" />
