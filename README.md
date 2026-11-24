@@ -1,4 +1,4 @@
-# hi im david and welcome to my github
+# Hi I'm David
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidchanwz&theme=dark&hide_border=true" alt="GitHub Streak" />
